@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-docs/static/css/main.1e3697e1.chunk.css",
+    "main.js": "/react-docs/static/js/main.8f8bd8dd.chunk.js",
+    "main.js.map": "/react-docs/static/js/main.8f8bd8dd.chunk.js.map",
+    "runtime-main.js": "/react-docs/static/js/runtime-main.48a45390.js",
+    "runtime-main.js.map": "/react-docs/static/js/runtime-main.48a45390.js.map",
+    "static/js/2.12b3aba0.chunk.js": "/react-docs/static/js/2.12b3aba0.chunk.js",
+    "static/js/2.12b3aba0.chunk.js.map": "/react-docs/static/js/2.12b3aba0.chunk.js.map",
+    "static/js/3.7ad72fda.chunk.js": "/react-docs/static/js/3.7ad72fda.chunk.js",
+    "static/js/3.7ad72fda.chunk.js.map": "/react-docs/static/js/3.7ad72fda.chunk.js.map",
+    "index.html": "/react-docs/index.html",
+    "static/css/main.1e3697e1.chunk.css.map": "/react-docs/static/css/main.1e3697e1.chunk.css.map",
+    "static/js/2.12b3aba0.chunk.js.LICENSE.txt": "/react-docs/static/js/2.12b3aba0.chunk.js.LICENSE.txt",
+    "static/media/check.da5daea8.svg": "/react-docs/static/media/check.da5daea8.svg",
+    "static/media/close.17a94979.svg": "/react-docs/static/media/close.17a94979.svg",
+    "static/media/search.815076b8.svg": "/react-docs/static/media/search.815076b8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48a45390.js",
+    "static/js/2.12b3aba0.chunk.js",
+    "static/css/main.1e3697e1.chunk.css",
+    "static/js/main.8f8bd8dd.chunk.js"
+  ]
+}
